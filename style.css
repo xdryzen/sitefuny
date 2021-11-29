@@ -1,0 +1,39 @@
+:root{
+	background:grey;
+}
+
+h1{
+	position:relative;
+	text-align: center;
+}
+.nav{
+	position: absolute;
+	top:100;
+	background:#E8E6C1;
+	width: 360;
+	height:50;
+	left:-1;
+}
+#icon{
+	left:-1;
+	position: absolute;
+}
+.line{
+	background:url("bg.jpg");
+	width:360;
+	height:440;
+	left:-8;
+	position:relative;
+	top:90;
+}
+p{
+	background:#72E1F2;
+	font-size:20;
+	text-align: center;
+	top: 250;
+	position: relative;
+	width:300;
+	height:100;
+	border-radius:40;
+	left:35;
+}
